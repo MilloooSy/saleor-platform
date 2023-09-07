@@ -64,7 +64,7 @@ tag isec6000-assignment1.
 ![ff92ef2e574c02352de33e34ae2ca20](https://github.com/MilloooSy/saleor-platform/assets/143394742/b17bbf2a-eb80-4b12-ac45-960cd33989f3)
 
 ![f01ac748f5181de422f2181d4b0e8e6](https://github.com/MilloooSy/saleor-platform/assets/143394742/b02de21b-2ff4-4c39-af0f-8df9aae360e2)
-This for tag
+This for tag(I did it in task 1 as well)
 
 ![b6a5fc3bf1c10029cd3264e68c93138](https://github.com/MilloooSy/saleor-platform/assets/143394742/5e062103-abef-4216-98f6-32284c9b17c5)
 Push tag to the github
