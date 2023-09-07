@@ -44,7 +44,7 @@ o Saleor React Storefront: Accessible at http://<Your-Linux-Server-IP>:3009.
 I try to access it within using GKE
 
 ![7a231dd5dae043d52a50598e9372678](https://github.com/MilloooSy/saleor-platform/assets/143394742/7f3c672b-0de3-45d0-90e5-97f1cbe0ead4)
-But it seems some error within using GKE access it
+But it seems some error within using GKE access it. It is a security measure of Django frame, to make sure there is only specific host can via the website
 
 ![5825ccb1e2c640bd406e6e3a4bef7a0](https://github.com/MilloooSy/saleor-platform/assets/143394742/5a4a6970-5c79-40dd-be18-74f5b6289a22)
 I turn to localhost for trying it
